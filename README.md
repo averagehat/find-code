@@ -10,3 +10,9 @@ Sources of interest:
 
 Related Projects:
 * https://gist.github.com/phillipalexander/9244143
+
+## License
+
+Copyright © 2015 Michael Panciera
+
+Distributed under the [GNU Public Lisence](http://www.gnu.org/licenses/gpl-3.0.en.html)
